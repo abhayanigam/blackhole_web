@@ -8,6 +8,7 @@
     "/(root)/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/(root)/layout.css",
       "static/chunks/app/(root)/layout.js"
     ],
     "/layout": [
@@ -15,21 +16,6 @@
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
-    ],
-    "/(root)/search/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(root)/search/[id]/page.js"
-    ],
-    "/(player)/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(player)/[id]/page.js"
-    ],
-    "/(player)/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(player)/layout.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",

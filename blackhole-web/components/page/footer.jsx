@@ -26,16 +26,16 @@ export default function Footer() {
         <Link
           target="_blank"
           className="text-sm opacity-80 font-light underline hover:opacity-100"
-          href=""
+          href="https://github.com/abhayanigam/blackhole_web"
         >
           Source Code
         </Link>
         <Link
           target="_blank"
           className="text-sm opacity-80 font-light underline hover:opacity-100"
-          href=""
+          href="https://www.linkedin.com/in/abhaya-nigam"
         >
-          Instagram
+          LinkedIn
         </Link>
       </div>
     </footer>
