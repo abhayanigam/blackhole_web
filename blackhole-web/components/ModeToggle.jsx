@@ -24,7 +24,7 @@ export function ModeToggle() {
       <input
         id="input"
         type="checkbox"
-        checked={theme === "dark"}
+        checked={resolvedTheme === "dark"}
         onChange={handleToggle}
       />
       <div className="slider round">
